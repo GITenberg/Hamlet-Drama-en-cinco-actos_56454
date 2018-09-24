@@ -1,0 +1,31 @@
+_repo: Hamlet-Drama-en-cinco-actos_56454
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  - agent_name: Moratín, L. Fernández
+    gutenberg_agent_id: '48855'
+    url: http://www.gutenberg.org/2009/agents/48855
+description: ''
+gutenberg_issued: '2018-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56454'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hamlet
+
+  Drama en cinco actos'
+url: http://www.gutenberg.org/ebooks/56454
